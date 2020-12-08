@@ -1,0 +1,29 @@
+body {
+  font-size: 15px;
+  color: white;
+  height: 20vh;
+  margin: 20px;
+  display: grid;
+  place-items: normal;
+  background: #555;
+  vertical-align: middle;
+}
+
+.module {
+  max-width: 150px;
+  margin: auto auto;
+  padding: 1rem;
+  color: white;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.text {
+  margin: auto;
+  color: white;
+  font-size: 21px;
+}
+
+h1 {
+  font-size: 19px;
+}
